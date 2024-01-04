@@ -4,8 +4,7 @@
 
 2. Cài đặt các thư viện cần thiết:
     - Mở Terminal trong PyCharm.
-    - Chạy lệnh:
-      pip install -r requirements.txt
+    - Chạy lệnh: pip install pandas seaborn matplotlib scikit-learn
 
 3. Mở tệp `main.py` và chạy mã nguồn.
 
