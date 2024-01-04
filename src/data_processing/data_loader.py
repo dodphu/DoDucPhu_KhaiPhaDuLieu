@@ -1,4 +1,6 @@
 import pandas as pd
+from sklearn.preprocessing import LabelEncoder
+
 
 def load_data(file_path="data/adult.csv"):
     # Đọc dữ liệu từ tệp CSV và chỉ định tên cột
